@@ -1,6 +1,5 @@
-<html>
-<header><title>This is title</title></header>
-<body>
-Hello world this is shaun
-</body>
-</html>
+<?php
+
+echo "Hello world";
+
+?>
